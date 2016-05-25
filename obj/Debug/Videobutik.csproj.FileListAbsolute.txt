@@ -1,0 +1,11 @@
+K:\Programmering 2\Videobutik\bin\Debug\Videobutik.exe.config
+K:\Programmering 2\Videobutik\bin\Debug\DatabaseVideobutik.mdf
+K:\Programmering 2\Videobutik\bin\Debug\DatabaseVideobutik_log.ldf
+K:\Programmering 2\Videobutik\bin\Debug\Videobutik.exe
+K:\Programmering 2\Videobutik\bin\Debug\Videobutik.pdb
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.csprojResolveAssemblyReference.cache
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.Form1.resources
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.Properties.Resources.resources
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.csproj.GenerateResource.Cache
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.exe
+K:\Programmering 2\Videobutik\obj\Debug\Videobutik.pdb
